@@ -1,0 +1,17 @@
+@media (max-width: 600px) {
+  .flex_card {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+}
+
+.margin_top {
+  margin-top: 45px;
+}
+
+.water {
+  width: 350px;
+  margin: 45px auto;
+}

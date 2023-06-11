@@ -1,0 +1,12 @@
+@import "./variables.scss";
+nav a{
+    color: $grey_text_colour;
+    padding: 10px;
+    text-decoration: none;
+}
+nav a.active{
+    color: $lightpink_colour;
+}
+.nav_icon{
+   margin: 3px 10px 0 0;
+}
