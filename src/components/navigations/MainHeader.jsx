@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 import MainHeader from "../../shared/components/Navigations/MainHeader";
 import NavLinks from "../../shared/components/Navigations/NavLinks";
-import "../../shared/components/Navigations/MainNavigation.css";
+import "../../shared/components/Navigations/MainNavigation.scss";
 import SideDrawer from "../../shared/components/Navigations/SideDrawer";
 import { useState } from "react";
 import Backdrop from "../../shared/components/UIElements/Backdrop";

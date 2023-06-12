@@ -1,6 +1,6 @@
 import { NavLink } from "react-router-dom";
 
-import "./NavLinks.css";
+import "./NavLinks.scss";
 
 const NavLinks = () => {
   const login = localStorage.getItem("token");
